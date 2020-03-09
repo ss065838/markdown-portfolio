@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Orange Cat](https://img.thrfun.com/img/081/592/orange_tabby_x2.jpg)
